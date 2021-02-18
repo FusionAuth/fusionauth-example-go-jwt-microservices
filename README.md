@@ -2,6 +2,8 @@
 
 This code is an example of protecting golang microservices with JSON web tokens.
 
+Read the blog post here: https://fusionauth.io/blog/2021/02/18/securing-golang-microservice/
+
 ## To run
 
 This assumes you already have go 1.15.8 installed and have cloned this repo.
